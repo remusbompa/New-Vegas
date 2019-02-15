@@ -3,4 +3,4 @@ I used my creativity to procedurally generate a 3D city in C++ using the OpenGL 
 
 You can find the full description of the project in the file "Tema3EGC.pdf".
 
-The entire project (including the OpenGl framework) can be found [here](https://drive.google.com/open?id=10-PlWJHn9WpTX8JgQpqP7hNW2VhlCp0y).
+The entire Visual Studio project (including the OpenGl framework) can be found [here](https://drive.google.com/open?id=10-PlWJHn9WpTX8JgQpqP7hNW2VhlCp0y).
